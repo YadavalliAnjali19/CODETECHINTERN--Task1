@@ -1,8 +1,8 @@
-Name: YADAVALLI ANJALI
-Company: CODETECH IT SOLUTIONS
-ID: CT08DS300
-Domain: Data Science
-Duration: May to June 2024
+Name: YADAVALLI ANJALI, 
+Company: CODETECH IT SOLUTIONS, 
+ID: CT08DS300, 
+Domain: Data Science, 
+Duration: May to June 2024, 
 Mentor: Sravani Gouni
 
 Description: 
